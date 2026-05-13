@@ -1,4 +1,4 @@
-# 
+# Enhance Adobe Premiere Pro for macOS with Adobe Premiere Pro for macOS smart Addon: noise-reduction & subtitle-generator, the #1 addon. Includes noise-reduction and
 
 
 
